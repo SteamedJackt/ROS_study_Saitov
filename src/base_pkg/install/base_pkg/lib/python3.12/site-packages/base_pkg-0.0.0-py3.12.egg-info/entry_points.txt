@@ -1,0 +1,2 @@
+[console_scripts]
+talker = base_pkg.num_talker:main
