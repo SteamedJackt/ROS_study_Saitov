@@ -1,0 +1,31 @@
+[0.459s] Invoking command in '/home/jackt/ros2_ws/src/study_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackt/ros2_ws/build/study_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/study_pkg build --build-base /home/jackt/ros2_ws/build/study_pkg/build install --record /home/jackt/ros2_ws/build/study_pkg/install.log --install-scripts $base/lib/study_pkg --single-version-externally-managed install_data
+[0.640s] running egg_info
+[0.640s] creating ../../build/study_pkg/super_time_test_study_pkg.egg-info
+[0.650s] writing ../../build/study_pkg/super_time_test_study_pkg.egg-info/PKG-INFO
+[0.650s] writing dependency_links to ../../build/study_pkg/super_time_test_study_pkg.egg-info/dependency_links.txt
+[0.651s] writing entry points to ../../build/study_pkg/super_time_test_study_pkg.egg-info/entry_points.txt
+[0.651s] writing requirements to ../../build/study_pkg/super_time_test_study_pkg.egg-info/requires.txt
+[0.651s] writing top-level names to ../../build/study_pkg/super_time_test_study_pkg.egg-info/top_level.txt
+[0.651s] writing manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+[0.672s] reading manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+[0.672s] writing manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+[0.673s] running build
+[0.673s] running build_py
+[0.673s] creating /home/jackt/ros2_ws/build/study_pkg/build
+[0.673s] creating /home/jackt/ros2_ws/build/study_pkg/build/lib
+[0.673s] creating /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+[0.673s] copying study_pkg/first_node.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+[0.687s] copying study_pkg/__init__.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+[0.687s] copying study_pkg/time_table.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+[0.687s] running install
+[0.692s] running install_lib
+[0.703s] creating /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+[0.703s] copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/first_node.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+[0.703s] copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/__init__.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+[0.704s] copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/time_table.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+[0.704s] byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/first_node.py to first_node.cpython-312.pyc
+[0.704s] byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/__init__.py to __init__.cpython-312.pyc
+[0.704s] byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/time_table.py to time_table.cpython-312.pyc
+[0.704s] running install_data
+[0.704s] error: can't copy 'resource/super_time_test_study_pkg': doesn't exist or not a regular file
+[0.717s] Invoked command in '/home/jackt/ros2_ws/src/study_pkg' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackt/ros2_ws/build/study_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/study_pkg build --build-base /home/jackt/ros2_ws/build/study_pkg/build install --record /home/jackt/ros2_ws/build/study_pkg/install.log --install-scripts $base/lib/study_pkg --single-version-externally-managed install_data

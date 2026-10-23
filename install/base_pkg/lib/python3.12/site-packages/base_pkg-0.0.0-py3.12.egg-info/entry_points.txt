@@ -1,0 +1,4 @@
+[console_scripts]
+num_listen = base_pkg.num_listen:main
+num_talker = base_pkg.num_talker:main
+overflow_listen = base_pkg.overflow_listen:main

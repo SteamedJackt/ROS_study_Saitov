@@ -1,0 +1,5 @@
+  File "/home/jackt/ros2_ws/install/base_pkg/lib/python3.12/site-packages/base_pkg/num_talker.py", line 45
+    self.publisher.publish(f'Переполнение' {msg}) 
+                           ^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

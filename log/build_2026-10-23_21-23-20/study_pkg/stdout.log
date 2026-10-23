@@ -1,0 +1,28 @@
+running egg_info
+creating ../../build/study_pkg/super_time_test_study_pkg.egg-info
+writing ../../build/study_pkg/super_time_test_study_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/study_pkg/super_time_test_study_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/study_pkg/super_time_test_study_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/study_pkg/super_time_test_study_pkg.egg-info/requires.txt
+writing top-level names to ../../build/study_pkg/super_time_test_study_pkg.egg-info/top_level.txt
+writing manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/study_pkg/super_time_test_study_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jackt/ros2_ws/build/study_pkg/build
+creating /home/jackt/ros2_ws/build/study_pkg/build/lib
+creating /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+copying study_pkg/first_node.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+copying study_pkg/__init__.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+copying study_pkg/time_table.py -> /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg
+running install
+running install_lib
+creating /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/first_node.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/__init__.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+copying /home/jackt/ros2_ws/build/study_pkg/build/lib/study_pkg/time_table.py -> /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg
+byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/first_node.py to first_node.cpython-312.pyc
+byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/jackt/ros2_ws/install/study_pkg/lib/python3.12/site-packages/study_pkg/time_table.py to time_table.cpython-312.pyc
+running install_data

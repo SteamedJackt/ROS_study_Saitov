@@ -1,0 +1,2 @@
+[console_scripts]
+time_table = super_time_test_study_pkg.time_table:main

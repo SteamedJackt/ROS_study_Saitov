@@ -1,0 +1,22 @@
+[0.438s] Invoking command in '/home/jackt/ros2_ws/src/base_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackt/ros2_ws/build/base_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackt/ros2_ws/install/base_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/base_pkg build --build-base /home/jackt/ros2_ws/build/base_pkg/build install --record /home/jackt/ros2_ws/build/base_pkg/install.log --install-scripts $base/lib/base_pkg --single-version-externally-managed install_data
+[0.582s] running egg_info
+[0.591s] writing ../../build/base_pkg/base_pkg.egg-info/PKG-INFO
+[0.591s] writing dependency_links to ../../build/base_pkg/base_pkg.egg-info/dependency_links.txt
+[0.592s] writing entry points to ../../build/base_pkg/base_pkg.egg-info/entry_points.txt
+[0.592s] writing requirements to ../../build/base_pkg/base_pkg.egg-info/requires.txt
+[0.592s] writing top-level names to ../../build/base_pkg/base_pkg.egg-info/top_level.txt
+[0.614s] reading manifest file '../../build/base_pkg/base_pkg.egg-info/SOURCES.txt'
+[0.614s] writing manifest file '../../build/base_pkg/base_pkg.egg-info/SOURCES.txt'
+[0.614s] running build
+[0.614s] running build_py
+[0.614s] running install
+[0.618s] running install_lib
+[0.629s] running install_data
+[0.629s] running install_egg_info
+[0.639s] removing '/home/jackt/ros2_ws/install/base_pkg/lib/python3.12/site-packages/base_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.639s] Copying ../../build/base_pkg/base_pkg.egg-info to /home/jackt/ros2_ws/install/base_pkg/lib/python3.12/site-packages/base_pkg-0.0.0-py3.12.egg-info
+[0.640s] running install_scripts
+[0.710s] Installing num_listen script to /home/jackt/ros2_ws/install/base_pkg/lib/base_pkg
+[0.710s] Installing num_talker script to /home/jackt/ros2_ws/install/base_pkg/lib/base_pkg
+[0.711s] writing list of installed files to '/home/jackt/ros2_ws/build/base_pkg/install.log'
+[0.729s] Invoked command in '/home/jackt/ros2_ws/src/base_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackt/ros2_ws/build/base_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackt/ros2_ws/install/base_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/base_pkg build --build-base /home/jackt/ros2_ws/build/base_pkg/build install --record /home/jackt/ros2_ws/build/base_pkg/install.log --install-scripts $base/lib/base_pkg --single-version-externally-managed install_data
